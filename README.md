@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+## A tad bit about me
+I am, first and foremost, a Chemist. I also like coding, and I know Js (& Html, css) and C#. I also know very basic Python and Java.
+
+## These are the languages I code with:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBooker66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Have a look around, and if you like what you see, be sure to tell me!
 
 <!--
 **TheBooker66/TheBooker66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
