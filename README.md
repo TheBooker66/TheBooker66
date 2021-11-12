@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## A tad bit about me
-I am, first and foremost, a Chemist. I also like coding, and I know Js (& Html, css) and C#. I also have very basic Python and Java knowledge.
+I am, first and foremost, a Chemist. I also like coding, and I know Js (& Html, css) and C#. I also have very basic Python knowledge.
 
 ## These are the languages I code with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBooker66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
