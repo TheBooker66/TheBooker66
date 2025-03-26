@@ -9,6 +9,6 @@ Publicly, I've coded a number of basic websites ([checkers](https://github.com/T
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
 ## Languages I code with (on github, at least)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBooker66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-thebooker66s-projects.vercel.app/api/top-langs/?username=TheBooker66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Have a look around, and if you like what you see, be sure to tell me!
